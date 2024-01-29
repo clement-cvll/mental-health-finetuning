@@ -21,3 +21,7 @@ The Mental_Health_Fine_Tuned_Chatbot.ipynb file is a LangChain chatbot using the
 
 I would like to try different LLMs and also different types of fine-tuning.
 Domain Specific fine tuning and Reinforcement Learning with Human Feedback are two things I would like to try.
+
+### Results
+
+My fine-tuned models are available on HuggingFace Hub, at <a href="https://huggingface.co/clement-cvll">clement-cvll<a/>.
