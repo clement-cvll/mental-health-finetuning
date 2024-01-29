@@ -1,4 +1,4 @@
-# mental-health-finetuning
+# Mental-health-finetuning
 Fine tuning of Large Language Models (LLMs) with a Mental Health-related dataset
 
 ### Goal of the project
